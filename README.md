@@ -24,5 +24,5 @@ npm i
 
 #### Thanks to...
 
-[Svelte <3 TypeScript](https://svelte.dev/blog/svelte-and-typescript)
-[pyoner/svelte-typescript/preprocess](https://github.com/pyoner/svelte-typescript/tree/master/packages/preprocess)
+- [Svelte <3 TypeScript](https://svelte.dev/blog/svelte-and-typescript)
+- [pyoner/svelte-typescript/preprocess](https://github.com/pyoner/svelte-typescript/tree/master/packages/preprocess)
